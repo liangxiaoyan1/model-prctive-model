@@ -1,4 +1,4 @@
-# model-prctive
+# model-practive
 
 ## Project setup
 ```
